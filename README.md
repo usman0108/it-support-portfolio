@@ -32,7 +32,7 @@ Practised documenting, categorising and managing IT support incidents using a st
 
 Practised Microsoft 365 user administration, licence assignment, multifactor authentication, password resets and collaboration tools.
 
-### 4. Windows 11 New Starter Deployment Lab
+### 4. [Windows 11 New Starter Deployment Lab](04-windows-11-new-starter-deployment)
 
 Practised Windows 11 workstation preparation and onboarding activities in a simulated business environment.
 
@@ -40,11 +40,11 @@ Practised Windows 11 workstation preparation and onboarding activities in a simu
 
 Used Windows networking commands and troubleshooting techniques to investigate connectivity and configuration issues.
 
-### 6. Microsoft 365 Troubleshooting Lab
+### 6. [Microsoft 365 Troubleshooting Lab](06-microsoft-365-troubleshooting-lab)
 
 Practised investigating Microsoft 365 user and service-related support scenarios.
 
-### 7. Active Directory File Permissions Lab
+### 7. [Active Directory File Permissions Lab](07-active-directory-file-permissions-lab)
 
 Practised configuring and testing access to shared folders using Active Directory security groups and Windows permissions.
 
