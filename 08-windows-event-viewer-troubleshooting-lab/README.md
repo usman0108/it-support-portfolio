@@ -118,3 +118,13 @@ This lab provided experience investigating Windows application errors and resolv
 The confirmed resolution was restoring internet connectivity to a domain-joined Windows 11 virtual machine using a second NAT network adapter, while retaining the existing internal lab network.
 
 The Widgets issue remains documented for further investigation, demonstrating the importance of distinguishing verified fixes from unresolved symptoms.
+## Screenshots
+
+### Event Viewer – Event ID 10010
+![Event Viewer error](01-event-viewer-error.png)
+
+### Network Connectivity Restored
+![Successful ping test](02-connectivity-restored.png)
+
+### System Integrity Checks
+![SFC and DISM troubleshooting](03-system-repair-checks.png)
