@@ -121,10 +121,10 @@ The Widgets issue remains documented for further investigation, demonstrating th
 ## Screenshots
 
 ### Event Viewer – Event ID 10010
-![Event Viewer error](01-event-viewer-error.png)
+![Event Viewer error](01-event-viewer-error.png.png)
 
 ### Network Connectivity Restored
-![Successful ping test](02-connectivity-restored.png)
+![Successful ping test](02-connectivity-restored.png.png)
 
 ### System Integrity Checks
-![SFC and DISM troubleshooting](03-system-repair-checks.png)
+![SFC and DISM troubleshooting](03-system-repair-checks.png.png)
